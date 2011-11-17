@@ -1,0 +1,3 @@
+This is a simple Currency Project. I provide the necessary source files (html and javaservlets) to deploy them on Tomcat 
+and get the currencies provided by the European Central Bank. The page also has an option to straight download my source
+files and also see my report on this project.
